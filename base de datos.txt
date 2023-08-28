@@ -1,0 +1,2 @@
+la base de dtos para este proyecto se llama empresa
+video: https://www.youtube.com/watch?v=xK_1IRknYw0&list=PLSuKjujFoGJ1FzCA6oCZHZvnoeGLj3I1w&index=1&ab_channel=Develoteca
